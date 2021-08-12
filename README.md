@@ -1,6 +1,6 @@
 ### Usage 
 
-1.  Install dependent libraries
+1.  Install Deeppoly
 
    Enter the folder “env_setup”, then run the following commands
 
