@@ -1,7 +1,7 @@
 # Introduction
-TBA
+TBD
 # Code Structure
-TBA
+TBD
 # Installation
 1.  Install Deeppoly
 
@@ -58,5 +58,5 @@ TBA
    python -u . --dataset acasxu --complete True --domain deeppoly --netname ../data/acasxu/onnx/ACASXU_run2a_2_1_batch_2000.onnx --specnumber 2
    ```
 # Usage
-TBA 
+TBD
 
